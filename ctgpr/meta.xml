@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="0.3">
+	<name>CTGP-R Channel</name>
+	<coder>MrBean35000vr and Chadderz</coder>
+	<version>v0.4</version>
+	<release_date>20140112190000</release_date>
+	<short_description>Download/custom track service for MKW</short_description>
+	<long_description>The CTGP Revolution Channel is the new launcher and updater for CTGP Revolution, a custom track distribution for Mario Kart Wii.</long_description>
+ <ahb_access/> </app>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>Snes9x GX Channel Installer</name>
+  <coder>Tantric</coder>
+  <version>1.2</version>
+  <release_date>20130827</release_date>
+  <short_description>Snes9x GX Channel Installer</short_description> 
+  <long_description>Snes9x GX Channel Installer</long_description>
+  <no_ios_reload />
+</app>

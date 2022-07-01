@@ -1,0 +1,13 @@
+
+The main "boot.dol" has been edited to use the 480p Pixel fix patch inside the loader's interface.
+If it doesn't work, rename the "boot_non480pfix.dol" to "boot.dol" and use it instead.
+
+
+
+Thanks to blackbl0x for the hexedit information.
+https://gbatemp.net/posts/8672438
+
+original : 3880000138600065
+edited to
+with fix : 3880000338600065
+

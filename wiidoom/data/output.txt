@@ -1,0 +1,24 @@
+M_LoadDefaults: Load system defaults.
+ default file: sd:/apps/wiidoom/data/prboom.cfg
+ default file: sd:/apps/wiidoom/data/prboom.cfg
+IWAD found: sd:/apps/wiidoom/data/doom1.wad
+IWAD found: sd:/apps/wiidoom/data/doom1.wad
+WiiDoom (built Aug 28 2010), playing: DOOM Shareware
+WiiDoom is released under the GNU General Public license v2.0.
+You are welcome to redistribute it under certain conditions.
+It comes with ABSOLUTELY NO WARRANTY. See the file COPYING for details.
+WiiDoom (built Aug 28 2010), playing: DOOM Shareware
+WiiDoom is released under the GNU General Public license v2.0.
+You are welcome to redistribute it under certain conditions.
+It comes with ABSOLUTELY NO WARRANTY. See the file COPYING for details.
+V_Init: allocate screens.
+D_InitNetGame: Checking for network game.
+W_Init: Init WADfiles.
+ adding sd:/apps/wiidoom/data/doom1.wad
+ adding sd:/apps/wiidoom/data/prboom.wad
+W_InitCache
+
+M_Init: Init miscellaneous info.
+R_Init: Init DOOM refresh daemon - 
+R_LoadTrigTables: Endianness...corrected.
+R_InitData: Textures Flats Sprites 

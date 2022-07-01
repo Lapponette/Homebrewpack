@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app>
+	<name> Multi-Mod Manager 13.4</name>
+	<coder>wiiwu2@yahoo.com</coder>
+	<version>v13.4</version>
+	<release_date>20100920001304</release_date>
+<short_description> A multipurpose all-in-one tool</short_description>
+<long_description>
+- Nice 1 glance view of all IOS to manage
+- Fast 1 button install of all WADs in a folder
+- Launch your homebrew apps from SD 
+- Launch Priiloader or manage its hacks
+- Express 1-click Install and Patch IOS36
+- View Wii System Information
+- Flexible IOS reload via easy selection screen
+- Fast D-PAD navigation and shortcut buttons
+- Easy to use menu interface
+- No forced loading of IOS
+
+Note: To disable AHBPROT mode, delete the "no_ios_reload" line below.
+  
+</long_description>
+<no_ios_reload/>
+</app>

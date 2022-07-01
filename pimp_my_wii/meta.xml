@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+	<name>Pimp my Wii</name>
+	<coder>Attila</coder>
+	<version>2.30</version>
+	<no_ios_reload/>
+	<short_description>Fix/Hack your Wii</short_description> 
+	<long_description>
+		Check your ioses installed and verify if they are missing, outdated and trucha bug fixed. Then it patch and installs them.
+		Also install cIOSes and can install/remove wads.
+	</long_description> 
+</app>
+

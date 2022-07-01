@@ -1,0 +1,1273 @@
+Homebrew 2092896 v0.3.9e | - Updated with latest libogc which should correct network issues some users are experiencing
+citydemo 1557464400 59853 279424 dol 250365 0 0 ws  . .
+CityDemo
+Owen
+1.0
+339803
+Demo of a cityscape
+Randomly generated track with buildings and overpasses in a neon/retro80s/futuristic style
+danbo 1605506400 16732 1966848 dol 1323089 0 0 w  . .
+Danbo
+Danbo
+v1.0
+1983880
+Danbo
+Danbo
+libmii-example 1237611600 3639 228448 dol 115271 0 0 w  . .
+Libmii Example
+mjbauer95
+0.1alpha
+232449
+Example of libmii 
+An example of libmii. It shows each Mii entry as a name.
+newosky 1508648400 6175 1636448 dol 2041935 0 0 w /apps/newosky/screenshot;/apps/newosky/assets;/apps/newosky/assets/effect;/apps/newosky/image;/apps/newosky/model . .
+Newo Sky
+Owen
+1.1
+3007113
+Procgen walking simulator
+Procedurally generated landscape and walking simulator demo
+NewoTokyo 1376197200 14349 1467936 dol 2815402 0 0 ws /apps/NewoTokyo/screenshot . .
+Newo Tokyo
+Owen
+1
+3802752
+Demo / ScreenSaver / Illustration
+A demonstration program.  A random path is generated from 9000 dots and is followed by the camera.
+starfield 1341378000 30394 1318240 dol 560243 0 0 w  . .
+Starfield Demo
+Owen
+1.1
+1349048
+A demo of a starfield effect
+This is a interactive demo.  Visit: http://wiibrew.org for real games. Also check out NewoShooter
+=Demos=
+bluemsx-wii 1290924000 2974 7823936 dol 6442065 0 0 wwgcns  . .
+BlueMSX-Wii
+Tim Brugman
+V1.0.3
+7827606
+BlueMSX port for Wii
+BlueMSX ported to Wii with game selection GUI.
+chippy 1575226911 4632 697046 elf 333527 0 0 w  . .
+Chippy
+Meir Goldstein
+1.0
+737323
+CHIP8 and SCHIP Interpreter
+CHIP8 and SCHIP Interpreter
+dcvg5k 1575226945 13324 1229376 dol 2588045 0 0 ws /apps/dcvg5k/software . .
+DCVG5K Wii
+Danel Coulom
+r1
+5880471
+DCVG5K on Wii
+A port of the VG5000 emulator DCVG5K to the Nintendo Wii.
+DeSmuMEWii 1575226954 7176 1738144 dol 624262 0 0 wgcs  . .
+DeSmuME Wii
+Many
+r253
+1745745
+DeSmuME on Wii
+A port of the Nintendo DS emulator DeSmuME to the Nintendo Wii.
+dosbox-wii 1341032400 7143 3905888 dol 1817182 0 0 wwgcs  . .
+DOSBox Wii
+Tantric
+1.7
+3983008
+DOS Emulator
+Port of DOSBox to the Wii
+fbzx-wii 1494565200 9898 1671712 dol 851636 0 0 wwncs /apps/fbzx-wii/doc . .
+FBZX Wii
+Oibaf (Fabio Olimpieri)
+15.0
+1737368
+ZX Spectrum Emulator
+A ZX Spectrum emulator. 
+fceugx 1616475600 8367 4118176 dol 2418755 0 0 wwwwgncs /fceugx;/fceugx/saves;/fceugx/cheats;/fceugx/roms . .
+FCE Ultra GX
+Tantric, Zopenko, Askot, others
+3.5.1
+4126925
+Nintendo Emulator
+A port of FCE Ultra to the Wii.
+fceugx-channel-installer 1300424400 8367 2876640 dol 2366201 0 0 w  . .
+FCE Ultra GX Channel Installer
+Tantric
+1.2
+2885395
+FCE Ultra GX Channel Installer
+FCE Ultra GX Channel Installer
+FCEURX 1547877600 4461 2908256 dol 1377668 0 0 wwwwgncs /fceugx;/fceugx/saves;/fceugx/cheats;/fceugx/roms . .
+FCE Ultra RX
+NiuuS, Tantric
+1.7.0
+2913424
+Nintendo Emulator
+Featuring:
+fceuxtx 1618290000 4825 3450336 dol 1761496 0 0 wwwwgcns /fceuxtx;/fceuxtx/saves;/fceuxtx/cheats;/fceuxtx/roms . .
+FCEUX TX
+Tanooki
+1.1.1
+3460612
+NES/Famicom Emulator
+FCEUX TX is a fork of FCE Ultra GX on Wii.
+frodo 1356588000 9721 1725184 dol 858766 0 0 wwcn  . .
+C64-network.org (Frodo)
+Simon Kagstrom, Oibaf
+2.4.1
+1736364
+Commodore 64 emulator
+C64-network.org is a networked C64 emulator based on Frodo written by Christian Bauer. It supports C64 disk and tape images in the .d64, .t64 and .prg formats. The port to Wii was done by Simon Kagstrom.
+genplus-gx 1420092000 44558 4118464 dol 1968241 0 0 wwwwgcns  . .
+Genesis Plus GX
+Eke-Eke
+1.7.5
+4164465
+Sega 8-bit/16-bit emulator
+This is a Sega / Mega CD, Mega Drive / Genesis, Master System, Game Gear SG-1000 emulator based on the initial work of Charles MacDonald. The original code has been highly modified to improve emulation accuracy as well as adding many extra features. Visit the official homepage at http://code.google.com/p/genplus-gx/
+gnuboy 1229306694 40878 319872 dol 400638 0 0 wgcns  . .
+Gnuboy GX
+Eke-Eke
+081214
+361270
+Gameboy Color Emulator
+This is a port of Gnuboy, a Gameboy and Gameboy Color emulator, originally coded by Laguna and Gilgamesh. Please read gnuboy-gx.txt first and check http://www.tehskeen.com/forums/ for any questions and updates.
+grim 1368421200 10716 2808860 dol 2015130 0 0 wgs /apps/grim/saves . .
+ResidualVM
+Wiimpathy
+0.2
+4457658
+LucasArts 3D adventure
+A port of ResidualVM to the Wii.
+gxgeo 1290146400 2229 1291520 dol 365643 0 0 wwgcs  . .
+GxGeo
+blizzo
+20101119
+1294099
+Neo-Geo Emulator
+A Neo-Geo Emulator based on GnGeo
+hatari 1470200400 6114 3341824 dol 1293381 0 0 wwgcs  . .
+HatariWii
+Wiimpathy
+0.0.5
+3881016
+Atari ST Emulator for Wii
+This is a port of Hatari (1.9.0), an Atari ST Emulator.
+JzintvWii 1352700000 17049 869632 dol 435128 0 0 wgcns  . .
+jzintvWii
+jenergy
+1.0.2
+890103
+Intellivision Emulator
+jzintvWii 1.0.2
+megazeux 1569223680 4036 2080448 dol 2952546 0 0 w /apps/megazeux/docs;/apps/megazeux/assets . .
+MegaZeux
+Unknown
+2.92b
+6532315
+A simple game creation system (GCS)
+MegaZeux is a Game Creation System (GCS) inspired by Epic MegaGames' ZZT, first released by Alexis Janson in 1994. Originally written for DOS, MegaZeux is now available on a wide variety of platforms.
+mgba 1626005386 8480 2205952 dol 863763 0 0 w /apps/mgba/licenses . .
+mGBA
+Jeffrey Pfau (endrift)
+0.9.2
+2397348
+mGBA Game Boy Advance emulator
+mGBA Game Boy Advance emulator
+neocd 1319173200 7002 1187488 dol 484302 0 0 wwgc  . .
+NeoCD-WII
+Wiimpathy, Jacobeian
+0.5
+1194856
+Neo-Geo CD Emulator
+A port of Neo-CD redux to the Wii.
+neopop 1575227119 5275 957056 dol 624060 0 0 w  . .
+NeoPop GX
+Eke-Eke
+0.71.2
+962963
+Neo Geo Pocket Color Emulator
+Emulator updated by megalomaniac.
+not64 1630254150 4159 542944 dol 1141326 0 0 wwwwgcns /not64;/not64/saves;/not64/roms;/MCBACKUP . .
+Not64
+Extrems
+2021-08-29
+2120891
+N64 Emulator for Wii
+Wii64 Team is:
+o2em 1575227192 8636 724544 dol 521373 0 0 wgs  . .
+O2em
+Consolius
+1.0
+734651
+Odyssey emu for the Wii
+Port of O2em to the Wii.
+pacman 1468126800 611 442240 dol 186549 0 0 w  . .
+Pacman
+A.D.Price/D.Ashley/P.Briot
+1.04
+447686
+Arcade emulator
+Pacman emulator. Put roms in the sub-directory "roms" below this one. Supports wiimote, nunchuck and classic controller. Ability to allow test mode and to show easter egg. Ability to allow rack advance.
+scummvm 1600787526 9990 6452500 elf 100361535 0 0 wgs /apps/scummvm/plugins . .
+ScummVM
+The ScummVM Team
+2.2.0
+101458641
+Point & Click Adventures
+ScummVM is a program which allows you to run certain classic graphical point-and-click adventure games, provided you already have their data files. The clever part about this: ScummVM just replaces the executables shipped with the games, allowing you to play them on systems for which they were never designed!
+sdlmame-wii 1462165200 6824 15157504 dol 4750952 0 0 wgcs /apps/sdlmame-wii/docs . .
+MAME Wii
+Toad King + MAME Team
+1.1 (MAME 0.134u4)
+15234424
+Arcade Emulation
+This is a port of MAME for the Wii. Unlike the previous SDL MAME for the Wii, this is not based on Wii Linux. Please note that although many games work well with the emulator, others may not work at all. Please read the README for details.
+snes9xgx 1616475600 7417 5215424 dol 2736893 0 0 wwwwgcns /snes9xgx;/snes9xgx/saves;/snes9xgx/cheats;/snes9xgx/roms . .
+Snes9x GX
+Tantric, Zopenko, Askot
+4.5.2
+5223217
+Super Nintendo Emulator
+A port of Snes9x to the Wii.
+snes9xgx-channel-installer 1377579600 7417 3040480 dol 2528375 0 0 w  . .
+Snes9x GX Channel Installer
+Tantric
+1.2
+3048278
+Snes9x GX Channel Installer
+Snes9x GX Channel Installer
+Snes9xRX 1594789320 5753 4963936 dol 2548922 0 0 wwwwgcns /snes9xgx;/snes9xgx/saves;/snes9xgx/artwork;/snes9xgx/cheats;/snes9xgx/roms;/snes9xgx/covers;/snes9xgx/screenshots . .
+Snes9x RX
+NiuuS
+4.9.0
+4970566
+Super Nintendo Emulator
+Featuring:
+snes9xtx 1619067600 6254 4341184 dol 2012474 0 0 wwwwgcns /snes9xtx;/snes9xtx/saves;/snes9xtx/cheats;/snes9xtx/roms . .
+Snes9x TX
+Tanooki
+1.0.7
+4350729
+Super Nintendo Emulator
+Snes9x TX is a fork of Snes9x GX on Wii.
+TrojanWii 1222750800 12678 2097228 elf 331219 0 0 wg  . .
+TrojanWii
+Jon Conrad
+1.1
+2111045
+Trojan LCD Simulator for Wii
+Here is the Updated Trojan LCD game simulator.  Now with Wiimote Support
+uae 1421992800 8957 4427776 dol 1838762 0 0 wwgcn /apps/uae/docs;/apps/uae/images . .
+UAE Wii
+Oibaf, Simon Kagstrom
+12
+4877958
+Amiga emulator
+UAE is an Amiga emulator written by Bernd Schmidt et al, see http://amigaemulator.org. 
+vbagx 1616475600 7621 5148832 dol 3363172 0 0 wwwwgcns /vbagx;/vbagx/saves;/vbagx/roms . .
+Visual Boy Advance GX
+Tantric
+2.4.5
+5156835
+GBA/GBC/GB Emulator
+A port of Visual Boy Advance - M to the Wii.
+vbagx-channel-installer 1377579600 7621 2662240 dol 2145039 0 0 w  . .
+VBA GX Channel Installer
+Tantric
+1.3
+2670231
+VBA GX Channel Installer
+VBA GX Channel Installer
+vecxwii 1575227396 4684 1109056 dol 594459 0 0 wgs  . .
+VectrexWii
+Aruskano
+0.3
+1114102
+Vectrex Emulator
+Wii port of Vecx - a vectrex emulator written by Valavan Manohararajah.
+wii2600 1241326800 10375 2403296 dol 2822829 0 0 wwwwgcn /apps/apps;/apps/apps/wii2600;/apps/apps/wii2600/docs;/apps/apps/wii2600/docs/graphics;/apps/wii2600/docs;/apps/wii2600/docs/graphics;/apps/wii2600/snapshots;/apps/wii2600/state;/apps/wii2600/roms . .
+Wii2600
+raz0red
+0.2
+6111238
+Atari 2600 Emulator
+Wii port of Stella 2.7.2.
+wii64 1266904800 7802 1489056 dol 620065 0 0 wwwwgcns  . .
+Wii64
+Wii64 Team
+Beta 1.1 'Honey'
+1498060
+N64 Emulator for Wii
+Wii64 Team is:
+WII7800 1585122540 6247 1934752 dol 1010040 0 0 wwgcns  . .
+Wii7800
+raz0red
+0.5
+1972580
+Atari 7800 Emulator
+Wii7800 is a port of the ProSystem emulator developed by Greg Stanton.
+wiiapple 1231394400 4777 1013344 dol 511669 0 0 wgk  . .
+WiiApple
+yohanes
+0.0.7
+1908509
+Apple IIe Emulator for Wii
+This is a port of Apple IIe Emulator based on LinApple/AppleWin. You will need to have a USB keyboard to use this application.
+wiicolem 1577224920 11642 2131712 dol 2633514 0 0 wwgcns /wiicolem;/wiicolem/saves;/wiicolem/overlays;/wiicolem/states;/wiicolem/roms . .
+WiiColEm
+raz0red
+0.3
+3743247
+ColecoVision Emulator
+WiiColem is a port of the ColEm emulator developed by Marat Fayzullin.
+wiiengine 1306213200 6865 808384 dol 430748 0 0 wwwwgc  . .
+Wiiengine
+Hermes
+1.5BB
+815744
+PCengine Emulator
+PCengine Emulator with CDROM support based in gp2xengine and others.
+wiihandysdl 1304917200 7459 2260768 dol 1075624 0 0 wwgcns  . .
+WiiHandy
+raz0red
+0.4
+2275280
+Atari Lynx Emulator
+WiiHandy is a port of the Handy 0.95 Atari Lynx emulator developed by Keith Wilkins. Additional changes by the SDLEmu team.
+wiimednafen 1455170400 7730 5068832 dol 1958992 0 0 wgcns  . .
+WiiMednafen
+raz0red
+0.2-pre
+5118104
+Mednafen Emulator
+WiiMednafen is a port of the Mednafen Emulator.
+wiiSX 1307422800 13278 1690720 dol 737987 0 0 wwwwgcns  . .
+WiiSX
+Wii64 Team
+Beta 2.1.1
+1704808
+PSX Emulator for Wii
+Wii64 Team is:
+wiiSXR 1509948000 6108 1892576 dol 828689 0 0 wwwwgcns  . .
+WiiSXR
+Wii64 Team, matguitarist, Daxtsu, Mystro256
+Beta 2.3 f0fabad
+1899443
+PSX Emulator for Wii
+Wii64 Team is:
+WiiSXRX 1599610680 25569 1746880 dol 769561 0 0 wwwwgcns /wiisxrx;/wiisxrx/saves;/wiisxrx/bios;/wiisxrx/isos;/wiisxrx/savestates . .
+WiiSXRX
+NiuuS
+2.5 Beta
+1782226
+PSX Emulator for Wii
+Featuring:
+wiituka 1255196963 6028 10534784 dol 9169517 0 0 wcs /apps/wiituka/SAVES;/apps/wiituka/SAVES/CFG;/apps/wiituka/SCREENS;/apps/wiituka/DISKS . .
+Wiituka
+D_Skywalk
+0.98.8
+10604524
+Amstrad CPC Emulator
+WiituKa is an Amstrad CPC6128 emulator for the Wii system based on my last work Pituka for GamePark32.
+wiixl 1233986400 3625 823872 dol 534118 0 0 wwgc /apps/wiixl/doc . .
+WiiXL
+raz0red
+0.1
+1193164
+Atari 800/XL/XE/5200
+Wii port of the Atari800 emulator version 2.0.3.
+yabause 1339045200 4750 3192320 dol 742053 0 0 wwgcs  . .
+Yabause
+Yabause Team with...
+r2926 beta26
+3201438
+Sega Saturn Emulator
+This is unofficial version.
+=Emulators=
+abuse 1371099600 15491 2029184 dol 6090707 0 0 wcns /apps/abuse/data;/apps/abuse/data/lisp;/apps/abuse/data/sfx;/apps/abuse/data/sfx/voice;/apps/abuse/data/levels;/apps/abuse/data/levels/mac;/apps/abuse/data/art;/apps/abuse/data/art/back;/apps/abuse/data/art/fore;/apps/abuse/data/art/chars;/apps/abuse/data/art/tints;/apps/abuse/data/art/tints/guns;/apps/abuse/data/art/tints/cop;/apps/abuse/data/art/tints/ant;/apps/abuse/data/netlevel;/apps/abuse/data/music;/apps/abuse/data/addon;/apps/abuse/data/addon/claudio;/apps/abuse/data/addon/deathmat;/apps/abuse/data/addon/leon;/apps/abuse/data/addon/leon/lisp;/apps/abuse/data/addon/leon/sfx;/apps/abuse/data/addon/bong;/apps/abuse/data/addon/aliens;/apps/abuse/data/addon/twist;/apps/abuse/data/addon/twist/lisp;/apps/abuse/data/addon/twist/sfx;/apps/abuse/data/addon/twist/levels;/apps/abuse/data/addon/twist/art;/apps/abuse/data/addon/newart;/apps/abuse/data/addon/pong;/apps/abuse/data/addon/pong/levels;/apps/abuse/data/addon/example;/apps/abuse/save . .
+Abuse Wii
+Many
+0.8.684.2
+24039745
+Abuse for the Wii
+Abuse is a dark 2D side-scrolling platform game developed by Crack dot Com in 1995. It features beautiful lighting, realistic animation and nasty alien-like creatures to destroy. It is now maintained by Sam Hocevar in an attempt to prevent it from vanishing from the Internet. Wii port by HunterZ based on Sam Hocevar's source at http://abuse.zoy.org/
+Achtung_Wii_Kurve 1272052800 9990 2015040 dol 1371554 0 0 wwwwgcns  . .
+Achtung Wii Kurve
+Profetylen
+1.3
+2026120
+Watch out for the curve
+Achtung Wii Kurve is a clone of the computer game Achtung Die Kurve. It differs in that it has alot of customization- and control options and actually includes music and sounds. The game supports up to 12 players.
+chromono2 1618290000 11857 3552000 dol 2831405 0 0 w  . .
+chro.mono 2
+thp
+2.3.0
+3564465
+A very circular puzzle game
+chro.mono is back! New levels, new puzzle mechanics and
+dkjunior 1495245600 6768 3120488 elf 2823494 0 0 w  . .
+Donkey Kong Jr
+Paul Goes
+1.0
+4904547
+Homebrew Donkey Kong Jr
+Donkey Kong Jr. - A Wii Homebrew remake of the Game and Watch Donkey Kong Jr handheld game.
+DuckHunt 1575226971 11194 2703328 dol 468777 0 0 wg  . .
+DuckHunt
+Knight0fDragon
+1.81
+2716096
+Duck Hunt for the Nintendo Wii
+Change Log:
+flapwii 1619292673 13283 1964352 dol 1915774 0 0 w  . .
+Flapwii Bird
+TheBlueOompaLoompa
+1.2.1
+2926639
+Flappy Bird for the Wii!
+Flappy Bird for the Wii!
+FridgeMagnets 1287810000 10405 908384 dol 514139 0 0 wws /apps/FridgeMagnets/Gfx;/apps/FridgeMagnets/Sounds;/apps/FridgeMagnets/fonts . .
+Fridge Magnets
+Paul Overy
+v0.34
+1038427
+Wii Fridge Magnets Game
+Move magnetic letters about, bit of fun and learning for children
+Harmonium 1244696400 8402 3862688 dol 1725878 0 0 wwww  . .
+Harmonium
+MetaFight
+v1 beta3
+3873049
+A musical doodling tool... with a twist!
+About This Release:
+helii 1575227040 3461 670496 dol 323088 0 0 w  . .
+Helii
+BHSPitMonkey
+0.2
+674455
+Pilot a helicopter!
+Controls:
+helium 1575227045 13546 859072 dol 3054589 0 0 wns /apps/helium/data;/apps/helium/data/textures;/apps/helium/data/bin;/apps/helium/data/bin/units;/apps/helium/data/bin/units/level1;/apps/helium/data/bin/materials;/apps/helium/data/sound . .
+Helium Boy
+Bertil
+0.1.1
+6638568
+3d platformer
+A 3D platformer inspired by the classic Nintendo title Balloon Kid. Fly through the level with you helium balloons and collect stars while whatching out for birds and flying ninjas.
+kidspaint 1314680400 5000 1505408 dol 5236502 0 0 wwwws /apps/kidspaint/music . .
+Kidspaint
+Uffe Flarup
+2.0.2
+6304960
+Painting program for kids
+Up to four persons can paint simultaneously!
+LedHeadWii 1590382800 4131 3038944 dol 1829769 0 0 w  . .
+LEDhead
+Nebiun
+1.1
+3043477
+Classic electronic LED game simulator
+Classic electronic LED game simulator based on LEDHead from Peter Hirschberg
+meg4kman 1563339600 2169 2430912 dol 2208490 0 0 wgcn  . .
+MEG4kMAN
+REHvolution
+0.5
+2433801
+MEG4kMAN
+MEG4kMAN
+newoasteroids 1579932000 43975 1720416 dol 8970023 0 0 wgcns /apps/newoasteroids/screenshot;/apps/newoasteroids/assets;/apps/newoasteroids/assets/effect;/apps/newoasteroids/image;/apps/newoasteroids/model . .
+Newo Asteroids
+Owen
+3.1
+10753397
+an asteroids like space game
+Asteroids choas on a Wednesday.   Clean up the solar system.
+NewoDefence 1446444000 43428 1638016 dol 3705015 0 0 w /apps/NewoDefence/screenshot;/apps/NewoDefence/assets;/apps/NewoDefence/assets/effect;/apps/NewoDefence/image . .
+Newo Defence
+Owen
+1.2
+4992345
+Like Missile command in space!
+Almost like missile command but in space and planets.  
+NewoEscape 1593579600 45468 1717056 dol 13591832 0 0 wgcns /apps/NewoEscape/screenshot;/apps/NewoEscape/assets;/apps/NewoEscape/assets/effect;/apps/NewoEscape/image;/apps/NewoEscape/model . .
+Newo Escape
+Owen
+2
+17131946
+Warp jump gone bad.  Survive.
+Warp Jump gone bad.  Survive.  Use wiimote, nunchuck, gamecube or classic controller to play.  Go for a high score.  No weapons. Only dodge, boost and break.
+newofox 1550296800 6101 1707360 dol 4192456 0 0 wgcns /apps/newofox/screenshot;/apps/newofox/assets;/apps/newofox/assets/effect;/apps/newofox/image;/apps/newofox/model;/apps/newofox/model/prop . .
+Newo Fox
+Owen
+1.2
+6105660
+on rails arcade shooter
+Newo Fox - Fighter One-X on rails arcade shooter. 
+NewoPuzzle 1341378000 1171 1904608 dol 2120766 0 0 w /apps/NewoPuzzle/music;/apps/NewoPuzzle/image;/apps/NewoPuzzle/global . .
+Newo Puzzle
+Owen
+1.3
+3147668
+Match 3 blocks puzzle
+Match 3 blocks of the same colour.  Make 10 matches to go to the next level. Game built for Nintendomax.com Compo 2011.  Also checkout "NewoShooter"
+NewoRunner 1341291600 5852 1524576 dol 16752168 0 0 wcs /apps/NewoRunner/screenshot;/apps/NewoRunner/assets;/apps/NewoRunner/assets/effect;/apps/NewoRunner/image;/apps/NewoRunner/model;/apps/NewoRunner/level . .
+Newo Runner
+Owen
+1.2
+17864152
+An Endless runner game
+Title Art: Jammy. Music By: Eric
+NewoShooter 1341378000 7700 2185472 dol 11992184 0 0 wgcns /apps/NewoShooter/screenshot;/apps/NewoShooter/music;/apps/NewoShooter/stage;/apps/NewoShooter/stage/image;/apps/NewoShooter/stage/global;/apps/NewoShooter/image;/apps/NewoShooter/model;/apps/NewoShooter/global . .
+Newo Shooter
+Owen
+2.2
+13753908
+On rails 3d Shoot-'em-up
+Controllers: Wiimote, Pointer, Classic, or Gamecube
+newozero 1618376400 1836 1813280 dol 23941399 0 0 wgcns /apps/newozero/screenshot;/apps/newozero/assets;/apps/newozero/assets/bgm;/apps/newozero/assets/effect;/apps/newozero/image;/apps/newozero/model;/apps/newozero/model/ship . .
+Newo Zero
+Owen
+1.0
+26190898
+future-retro-synthwave racing
+A futuristic retro-synthwave racing game with 30 tracks. Hard, Normal and Easy modes.  Wiimote, Motion, Classic or Gamecube controllers. Set in NewoTokyo 2078.  Recommended: Gamecube or Classic controller.
+OpenHCL 1602704171 390 872544 dol 9335877 0 0 wgcns /apps/OpenHCL/ogg;/apps/OpenHCL/data;/apps/OpenHCL/data/EV;/apps/OpenHCL/wav;/apps/OpenHCL/map . .
+OpenHCL
+JeffRuLz
+2020.08.26
+11999515
+Hydra Castle Labyrinth
+OpenHCL is an unofficial port of Hydra Castle Labyrinth, originally created by E. (Buster) Hashimoto.
+openttd 1375074000 4536 1760840 dol 47257894 0 0 wgcnsk /apps/openttd/game;/apps/openttd/docs;/apps/openttd/baseset;/apps/openttd/baseset/opengfx;/apps/openttd/baseset/opensfx;/apps/openttd/baseset/openmsx;/apps/openttd/scripts;/apps/openttd/ai;/apps/openttd/lang;/etc;/etc/timidity;/usr;/usr/local;/usr/local/lib;/usr/local/lib/timidity;/usr/local/lib/timidity/Tone_000;/usr/local/lib/timidity/Drum_000 . .
+OpenTTD
+Extrems
+1.3.2
+61162698
+Transport Tycoon Deluxe
+OpenTTD is an open source simulation game based upon the popular Microprose game "Transport Tycoon Deluxe", written by Chris Sawyer. It attempts to mimic the original game as closely as possible while extending it with new features.
+Reversmii 1314248400 4943 8092608 dol 8103397 0 0 ww  . .
+Reversmii
+chris
+1.0
+8098489
+Othello
+Simple Othello game, with Miis.
+smw-wiigii 1361080800 8651 3246464 dol 1400709 0 0 wwwwc  . .
+Super Mario War Wii
+Tantric
+1.5.3 (Wiigii)
+3259648
+Port of Super Mario War
+Port of Super Mario War
+supersonicwii 1232344800 9040 4508576 dol 8279531 0 0 wns /data;/data/supersonicwii;/data/supersonicwii/assets;/data/supersonicwii/assets/gamescene;/data/supersonicwii/assets/models;/data/supersonicwii/assets/textures;/data/supersonicwii/assets/menu;/data/supersonicwii/assets/environment;/data/supersonicwii/assets/environment/skyboxes;/data/supersonicwii/assets/environment/skyboxes/stars;/data/supersonicwii/assets/environment/skyboxes/greenstrings;/data/supersonicwii/assets/environment/skyboxes/eclipse;/data/supersonicwii/assets/environment/skyboxes/flare;/data/supersonicwii/assets/environment/skyboxes/winterfire;/data/supersonicwii/assets/environment/skyboxes/blueflash;/data/supersonicwii/assets/environment/skyboxes/stellar;/data/supersonicwii/assets/environment/skyboxes/clouds;/data/supersonicwii/worlds;/data/supersonicwii/worlds/Origin;/data/supersonicwii/worlds/Origin/Synthetic Nightmare;/data/supersonicwii/worlds/Origin/Space Vacation;/data/supersonicwii/worlds/Origin/Super Mario Bros Remix;/data/supersonicwii/worlds/Origin/Turrican Remix;/data/supersonicwii/worlds/Winter Wonderland;/data/supersonicwii/worlds/Winter Wonderland/Canon in D Remix;/data/supersonicwii/worlds/Winter Wonderland/Winter Symphony;/data/supersonicwii/worlds/Winter Wonderland/Ode to Megaman;/data/supersonicwii/worlds/Secundus;/data/supersonicwii/worlds/Secundus/OMG Tetris;/data/supersonicwii/worlds/Secundus/Voxelbuffer . .
+Supersonic Wii : Winter Edition
+Aaron "AerialX"
+0.05
+11788740
+Music-Rhythm Game
+Supersonic Wii is a music rhythm game where the player needs to hit buttons in sync with the music being played. Called "space button Guitar Hero" by some, you play one part of the song at a time (focus on one instrument at a time, for example drums) until you've played it enough to continue on and try another. The sound for each instrument track only plays if you are successful at playing the pattern.
+supertux 1575227330 6476 2092704 dol 8587013 0 0 ws /apps/supertux/data;/apps/supertux/data/levels;/apps/supertux/data/levels/bonus1;/apps/supertux/data/levels/world1;/apps/supertux/data/levels/bonus2;/apps/supertux/data/levels/misc;/apps/supertux/data/levels/worldmaps;/apps/supertux/data/images;/apps/supertux/data/images/shared;/apps/supertux/data/images/tilesets;/apps/supertux/data/images/background;/apps/supertux/data/images/status;/apps/supertux/data/images/title;/apps/supertux/data/images/icons;/apps/supertux/data/images/worldmap;/apps/supertux/data/music;/apps/supertux/data/sounds;/apps/supertux/save . .
+SuperTux Wii
+Two devs
+1.3
+16600674
+Port of SuperTux
+Port of SuperTux to the Wii.
+syobon-action 1575227336 2288 3495552 dol 2657663 0 0 wg  . .
+Syobon Action
+Scognito
+1.0
+3498671
+Syobon Action for Wii
+This is the Wii port of the famous game released for PC.
+Terri-Fried 1588654800 11021 1871296 dol 974241 0 0 w  . .
+Terri-Fried
+PolyMars
+1.0
+1882965
+A Ludum Dare 46 Game
+Everyone is dead except for... an egg. Humanity is depending on you to make sure this egg survives. Balance power and precision in Terri-Fried, a game made in 72 hours for Ludum Dare 46!
+tetwiis 1284352200 4442 6726432 dol 11824457 0 0 w /apps/tetwiis/music . .
+Tetwiis
+Pembo
+1.1
+14193274
+Wii Tetris
+TetWiis - A Nintendo WII Tetris Clone, shamelessly based on the Nintendo DS version of Tetris.
+tworld-wii 1624995874 4706 1464896 dol 1852432 0 0 wc /tworld;/tworld/res;/tworld/sets;/tworld/data;/tworld/save . .
+Tile world
+Brian Raiter, Port by G lander
+1.4
+7956634
+Chip's Challenge clone
+This is a port of the game Tile World, which emulates the popular game "Chip's Challenge".
+vvvv4k 1563339600 1315 1891296 dol 1671350 0 0 wgcn  . .
+VVVV4K
+REHvolution
+0.7
+1893417
+VVVV4K
+VVVV4K
+wiicross 1230962400 13298 4361312 dol 4495727 0 0 wgs /apps/wiicross/res;/apps/wiicross/res/themes;/apps/wiicross/res/themes/modern;/apps/wiicross/res/themes/strange;/apps/wiicross/res/themes/retro;/apps/wiicross/res/themes/paper . .
+Piero's Wiicross
+Scognito
+v0.2
+5069338
+A picross game for Wii
+Color the blocks according to numbers given at the side of the grid to reveal a hidden picture.
+wiidoom 1283058000 10489 2219680 dol 3097131 0 0 wgcs /apps/wiidoom/data;/apps/wiidoom/data/images;/apps/wiidoom/data/fonts . .
+WiiDoom
+Many
+0.4.5
+7424192
+DOOM for the Wii
+WiiDoom is a DOOM port based on PrBoom. It was ported by Lnuxguy, Jendave, Arikado, and Richard Bartlett.
+WiiPhysics 1575227527 9091 1751008 dol 1238345 0 0 ww  . .
+WiiPhysics
+Beardface
+2.2.0b
+1760653
+Physics for the Wii!
+WiiPhysics is a physics playground for the wii. It was build Using Box2D and libwiisprite.
+WiiQuizz 1243573200 11582 3381024 dol 3420573 0 0 wwwws  . .
+Wii Quizz
+CashMan
+2.1.5
+3413863
+Quiz games delirious !
+Wii Quizz is a quiz/puzzle homebrew application. You can play a mode game of your choice :
+WiiSPACE 1247461200 569 1573376 dol 756815 0 0 wwwwgcnsz  . .
+WiiSPACE
+Seiken
+1.2a
+1575464
+Shoot-'em-up in space
+The online high score table can be found at http://www.seiken.co.uk/WiiSPACE.
+Wii-Tac-Toe 1470978000 8894 1214752 dol 1232785 0 0 wwwwgcns  . .
+Wii-Tac-Toe
+Crayon
+1.0.0
+1224130
+Tic-Tac-Toe game
+Wii-Tac-Toe is a Tic-Tac-Toe game for the Nintendo Wii. It was programmed in C++ using devkitPro along with GRRLIB.
+WiiX-Ball 1262239200 14628 5903232 dol 4658730 0 0 wwwws  . .
+WiiX-Ball
+KMS
+1.0
+5918636
+Breakout for the Wii
+This game is based on and dedicated to the fans of the well-known breakout game DX-Ball for the PC.
+WoxelCraft 1475384400 8901 8223220 elf 2902777 0 0 w  . .
+WoxelCraft
+DaeFennek
+0.0.7
+8232545
+3D Voxel Engine and Minecraft clone
+WoxelCraft is a 3D Voxel Engine and a basic clone of Minecraft for the Nintendo Wii.
+YahtzWii 1280293200 13800 4133024 dol 4162035 0 0 wwwwgcns  . .
+YahtzWii
+chris
+3.11
+4149833
+Yahtzee for the Wii
+Yahtzee for the Wii
+=Games=
+BounceWii 1629781925 9589 1504256 dol 807278 0 0 wg  . .
+BounceWii
+Greeg0
+0.2
+1514236
+Wii logo bounces
+A Wii version of a DVD logo screensaver. Press A to switch the theme. Gamecube controller is supported as of v0.2
+mplayer-ce 1299218400 6159 8911296 dol 4845281 0 0 wwwwgcnsk  . .
+MPlayer CE
+MPlayer CE Team
+0.80 r658
+9394985
+Wii Media Player
+Homebrew media player for the Nintendo Wii.	
+radiow 1304312400 8394 2303040 dol 3484204 0 0 ws /apps/radiow/wr_music_rip;/apps/radiow/data;/apps/radiow/data/cache;/apps/radiow/data/imgs;/apps/radiow/data/pls;/apps/radiow/data/skins;/apps/radiow/data/skins/wiiradio;/apps/radiow/data/skins/shoutcast;/apps/radiow/data/skins/wrblue;/apps/radiow/data/scripts;/apps/radiow/data/visdata;/apps/radiow/data/projectm;/apps/radiow/data/projectm/presets;/apps/radiow/data/lang . .
+WiiRadio
+Scanff
+0.7
+6080833
+Internet Radio For Wii
+WiiRadio is a SHOUT/ICEcast stream player, ripper and music visualizer for the Wii.
+wiimc 1385186400 3033 11459872 dol 6038768 0 0 wwwwcs  . .
+WiiMC
+Tantric, rodries
+1.3.4
+11609166
+Wii Media Player
+Homebrew media player for Nintendo Wii.
+wiimc-channel-installer 1364706000 3033 3002336 dol 2498560 0 0 wwwwgcns  . .
+WiiMC Channel Installer
+Tantric
+2.0
+3005738
+WiiMC Channel Installer
+WiiMC Channel Installer
+wiimc-ss 1582351200 3033 9682432 dol 5117564 0 0 wwwwgcs  . .
+WiiMC-SS
+SuperrSonic
+22th February 2020
+9820286
+Wii Media Player (Mod)
+Homebrew media player for Nintendo Wii.
+=Media=
+240pSuite 1602703238 2366 1775360 dol 1446076 0 0 w  . .
+240p Test Suite GX
+Artemio Urbina
+1.10b
+1778541
+A video suite for game consoles.
+A homebrew software suite for video game consoles developed to help in the evaluation of upscalers, upscan converters, line doublers and of course TV processing of 240p video. The Wii version also has modes for 480i, 288p, 576i, and 480p evaluation. As a secondary target, the suite aims to provide tools for calibrating colors, black and white levels for specific console outputs and setups. 
+AnyGlobe_Changer 1614013908 7179 666912 dol 372571 0 0 w  . .
+AnyGlobe Changer
+fishguy6564
+1.2
+674894
+Changes your globe position for Wii games.
+AnyGlobe Changer allows you to modify information that is stored on your wii that determine your flag and global position for games that use them online to display your region. Always wanted to display yourself as being on top of South Korea, but always feared of bricking your Wii? With over 2000+ subregions you can choose from without having to worry about bricking, your desires to customize your globe aesthetics are limitless!
+balancetools 1575226948 10258 1674144 dol 1411981 0 0 w /apps/balancetools/images . .
+Balance Board Tools
+elisherer
+1.0
+2572972
+Quick Wii Board Tools
+A quick way to weigh yourself and find your center of gravity.
+BBPRO 1575226880 14344 6922784 dol 6466928 0 0 w  . .
+BALANCE BOARD PRO
+Paul Craven
+1.1
+6938309
+"Weigh" cool tools!
+A full-featured toolset for use with the Wii Balance Board.
+BootMiiConfigurationEditor 1341370800 5649 625056 dol 358662 0 0 wgs  . .
+BootMii Config Editor
+Pembo
+2.7
+704331
+Edit bootmii settings
+Allows you to modify the video, autoboot, and bootdelay options from the BootMii ini file (sd:/bootmii/bootmii.ini) directly on the wii.
+brawlstats 1318654800 10770 4153760 dol 3305439 0 0 wgs  . .
+BrawlStats
+Marc
+1.2.1
+4165037
+Stores your SSBB stats!
+BrawlStats reads your Smash Bros. Brawl save data and shows you a lot of information that the game hides!
+calibrator 1365310800 4465 120252 dol 126956 0 0 wwwwgcs  . .
+Calibrator
+Extrems
+1.1
+125125
+Calibration assistant
+Calibrator displays test patterns recognized by DScaler to assist with the calibration of capture devices.
+cert_sys_extractor 1578169612 5830 193184 dol 114154 0 0 ws  . .
+Simple cert.sys Extractor
+FIX94
+0.1
+199204
+No description provided.
+No description provided.
+CheckRegion 1361685600 7614 203584 dol 115554 0 0 w  . .
+CheckRegion
+JoostinOnline
+v1.4
+212042
+Checks your Wii's original region
+Run CheckRegion and it will tell you what region your Wii was originally, even if it has been region changed.
+CleanRip 1573365600 4290 1987264 dol 405564 0 0 wgs  . .
+CleanRip
+emu_kidid
+2.1.1
+1992262
+Wii/GC Disc Ripper Tool
+A tool to backup your Gamecube/Wii Discs via IOS58
+competition-tool-wii 1466830800 24806 365536 dol 219446 0 0 w  . .
+MKWii Competition Patch
+Leseratte
+build 19
+391775
+Mario Kart Wii competitions!
+This tool has been developed by Leseratte, with some help by amibu. It'll first upload your current competition to Wiimmfi, and will then patch your Wii to download new competitions from Wiimmfi and not from the old Nintendo server
+d2x-cios-installer 1316956708 14025 974432 dol 759288 0 0 w /apps/d2x-cios-installer/v10;/apps/d2x-cios-installer/v10/beta53;/apps/d2x-cios-installer/v10/beta53/d2x-v10-beta53-alt;/apps/d2x-cios-installer/v10/beta52;/apps/d2x-cios-installer/v10/beta52/d2x-v10-beta52 . .
+d2x cIOS installer
+dragbe
+3.1
+1361287
+Custom IOS installer
+Official Homebrew to install d2x cIOS maintained by davebaol, xabby666 and XFlak.
+DmpMiNND 1386887400 7268 172608 dol 102873 0 0 w  . .
+Dump Mii NAND
+Maxternal/DarkMatterCore
+v1.2
+180830
+NAND dumper (in BootMii nand.bin format)
+This will create a nand.bin file in SD:/nand.bin.
+Eject_DVD 1227758400 4673 72544 dol 82032 0 0 w  . .
+Eject DVD
+hOTzENpLOTz
+0.1
+77595
+Ejects disc from drive
+Very simple program to eject the disc from the Wii's DVD drive.
+ftpii 1282514400 4380 687232 dol 346131 0 0 w  . .
+ftpii
+joedj
+0.0.22
+692284
+An FTP server
+ftpii is an FTP server.
+gcmm 1618981200 7489 2181312 dol 784692 0 0 wgs  . .
+GCMM
+Suloku
+1.5
+2189468
+Memory Card Manager
+A memory card manager for Wii/GC.
+gcpadder 1607580000 10192 308640 dol 167024 0 0 wg  . .
+GCPadder
+InvoxiPlayGames
+1.0
+319568
+Use GameCube controllers on PC
+GCPadder is a utility that allows you to send your GameCube controller's inputs to your computer, either wirelessly or using a USB Gecko. (Performance is best on a stable ethernet connection or a USB Gecko.) https://github.com/InvoxiPlayGames/GCPadder
+Gecko 1263967200 14473 505664 elf 855120 0 0 w  . .
+Gecko
+brkirch
+1.9.3.1 Gecko
+1004689
+Gecko OS 1.9.3.1
+Gecko OS 1.9.3.1. See Readme
+HIDTest 1379566800 8594 298112 dol 172264 0 0 w  . .
+Nintendont: HIDTest
+crediar
+1.0
+314017
+Gamecube Loader
+Nintendont allows you to run GameCube games on a Wii or Wii U from an SD device.
+HomebrewFilter 1575227053 5157 4728352 dol 4412802 0 0 wwwwgcns  . .
+HomebrewFilter (Installer)
+Nano
+rev47
+4733831
+HBF (Installer)
+Installs The HomebrewFilter on Wii
+InspectMii 1401771600 5559 293376 dol 160882 0 0 w  . .
+InspectMii
+JoostinOnline
+v1.2
+299734
+Shows dozens of your Wii settings
+Intended as a companion app to SysCheck HDE, InspectMii shows and logs every single significant setting on your Wii. It is especially useful if you are looking for any conflicting or potentially problematic settings.  Info is grabbed from SYSCONF, dhcp.dat, and setting.txt.  It is compatible with the vWii.
+ios58-installer 1281502800 4263 1074560 dol 612127 0 0 w  . .
+IOS58 Installer
+Tantric
+1.0
+1079169
+Installs IOS58
+Downloads and installs IOS58 from NUS
+Mail-Patcher 1618203600 8270 332256 dol 171341 0 0 ws  . .
+RiiConnect24 Mail Patcher
+RiiConnect24
+v1.3.3
+341069
+Patches your nwc24msg.cfg to use Wii Mail!
+This tool will patch your nwc24msg.cfg file to use Wii Mail with RiiConnect24. It will only take a couple seconds and makes the whole process easy.
+metronome 1291788000 3106 873952 dol 880191 0 0 w  . .
+Metronome
+Westy92
+1.3
+877502
+A Metronome for the Wii
+A Metronome for the Nintendo Wii.  Using this application, you can keep a steady tempo while practicing an instrument.
+MinimaLauncher 1600750800 11465 2172124 elf 817291 0 0 ws  . .
+MinimaLauncher
+Glitch
+v1.2r2
+2184140
+Minimal Disc Booter
+MinimaLauncher boots whatever disc is in the slot for Wii or Gamecube.
+MotionPlusVideoSeen 1555271280 8246 296000 dol 157572 0 0 w  . .
+MotionPlusVideoSeen
+WiiDatabase Team
+1.0.0
+304894
+Motion Plus Video Seen Setter
+This homebrew sets the "MPLS.MOVIE" flag in SYSCONF that tells the Wii if the user has already seen the "Wii Motion Plus" tutorial video.
+MyMenuifyMod 1313816400 12491 522560 dol 340576 0 0 w  . .
+MyMenuifyMod
+IceFire : Scooby74029
+1.5
+537294
+Theme Installer
+MyMenuify with USB support added!!`nAlso neek supported `nNow in Japanese and Spanish!! new custom system menu detection
+net_enabler 1346994000 9375 273312 dol 159339 0 0 wgs  . .
+Offline Network Enabler
+Suloku
+0.1
+283360
+Enable network connections
+This applications allows to enable and use a network connection (set up from the wii's system menu configuration screen) even if there's no internet access, since the wii won't allow using a connection if it doesn't pass the internet test.
+NewoModelViewer 1329285600 6891 1415776 dol 1083521 0 0 ws /apps/NewoModelViewer/screenshot;/apps/NewoModelViewer/model . .
+Newo Model Viewer
+Owen
+1.4
+3031082
+A simple OBJ file viewer
+Controllers: Wiimote Horizontal
+Nintendont 1482040800 1156 1645440 dol 2112933 0 0 wwwwgcns /controllers . .
+Nintendont
+FIX94, crediar
+4.431
+1680449
+Gamecube Loader
+Commiters: GerbilSoft, JoostinOnline, GreyRogue, Howard, Cyan, nastys 
+nSwitch 1420696800 2280 249472 dol 133203 0 0 ws  . .
+nswitch
+OverjoY
+4.2
+252152
+neek/realnand switcher
+Simple neek/realnand switcher to embed in a channel
+Patched_IOS80_Installer_for_vWii 1363839240 2411 297504 dol 156441 0 0 w  . .
+Patched IOS80 Installer for vWii
+Dr Clipper, ZRicky11, dmm, FIX94
+1.0
+300428
+Installs IOS80
+!WARNING! MODIFIES vWii SYSMENU IOS! USE AT OWN RISK IF YOU LACK BRICK PROTECTION!
+PairMyDS3 1420092000 4501 213664 dol 113817 0 0 w  . .
+Pair My DS3
+Xerpi
+20150101
+218603
+Pairing Tool for PS3 Sixaxis Controller
+Writes .dat file to Wii Nand and Enables Wii Homebrew to use PS3 controller Wirelessly via BT
+PairMyDS4 1420092000 4656 287360 dol 156274 0 0 w  . .
+Pair My DS4
+Xerpi
+20150101
+292446
+Pairing Tool for PS4 Controller
+Writes .dat file to Wii Nand and Enables Wii Homebrew to use PS4 controller Wirelessly via BT
+PattView-Wii 1575227205 14840 3763104 dol 2917419 0 0 ws  . .
+PattView Wii
+Vash
+0.1 Alpha
+3778603
+AC:CF Pattern Editor
+PattView Wii
+playstats 1548655200 9283 800736 dol 820146 0 0 w  . .
+Playstats
+chris
+1.1
+811634
+Wii playtime history stats
+Analyse your Wii's play history.
+postloader 1429678800 4608 2256192 dol 1583120 0 0 w /ploader;/ploader/wads;/ploader/themes;/ploader/theme;/ploader/covers;/ploader/plugins . .
+postLoader
+stfour
+4.7.96
+2621195
+Homebrew browser, channel launcher, neek2o disc loader
+-------------------
+PowerCheck 1394946000 6970 1230336 dol 751618 0 0 wwww  . .
+PowerCheck
+JoostinOnline
+v1.8
+1237830
+Checks how charged your remotes are
+Run this and it will tell you the what percentage of battery power is left in the connected remotes, including the balance board.  It is not 100% accurate, but it's pretty close.
+priiloader 1617462000 17334 523872 dol 564247 0 0 wwwwgcns  . .
+Priiloader
+DacoTaco
+0.9.1
+567637
+Preloader Mod
+Priiloader is the follow up from Crediar's Preloader.
+RC24-Clear-Tool 1629003600 8349 328576 dol 171304 0 0 ws  . .
+RiiConnect24 Clear Tool
+RiiConnect24
+v1.0
+337435
+Tool to delete certain files to fix RC24 problems.
+This tool allows you to delete some files to fix problems with the Forecast Channel, News Channel, and Wii Mail.
+rgnsel_booter 1476074940 21046 96576 dol 75784 0 0 w  . .
+rgnsel booter
+iCON
+1.0
+118081
+Boots region select channel
+This homebrew will load the hidden region select channel. It will try the following regions:
+riivolution 1387389600 9758 1983348 elf 2004540 0 0 wwwwgcns  . .
+Riivolution
+Aaron tueidj Tempus megazig
+v1.06
+1998100
+Riivolution Patcher
+Riivolution is an on-the-fly game patcher for use with retail discs. It allows users to place content on their SD or USB devices, which will be read by the game during regular play. Riivolution can be used for custom textures, music, levels, memory patches, game translations, and more.
+rssmii 1557550800 8710 494816 dol 261242 0 0 wwwwgcns  . .
+RSSMii
+WiiDatabase.de, RiiConnect24, main()
+1.4.1
+504347
+Subscribe to RSS-Feeds!
+With RSSMii you can subscribe to RSS-Feeds right on your Wii! And you will receive updates as messages at the Wii message board!
+rssmii-remover 1557378000 8455 297536 dol 158635 0 0 w  . .
+RSSMii Remover
+WiiDatabase.de
+1.0
+306348
+Remove RSSMii
+Removes all RSSMii entries from your Wii.
+SaveGame_Manager_GX 1508274523 12977 3438592 dol 3460568 0 0 wwwwgcns  . .
+SaveGame Manager GX
+Dj_Skual
+rev76
+3454353
+SaveGames/Mii Manager
+A Savegame/Mii extractor and installer for the Wii by Dj_Skual.
+SensorMii 1348635600 6161 127424 dol 76316 0 0 w  . .
+SensorMii
+JoostinOnline
+1.0
+133957
+Enable the sensor bar
+This turns on the sensor bar, but does not sync the remote
+Settings-Editor-GUI 1326261600 7286 951904 dol 1469741 0 0 w /ploader;/ploader/SE_theme . .
+Settings Editor GUI
+JoostinOnline, stfour
+v1.9
+1908852
+Modify your settings via homebrew.
+Settings Editor GUI is a perfect add-on to postLoader, but it can be used on its own as well.  With it, you can change the following:
+SIP 1284771600 5370 334048 dol 183394 0 0 ws  . .
+Simple IOS Patcher 1.14
+R2-D2199, WiiPower
+114
+339830
+App to patch IOS
+Can install patched IOS36, 60, 70 and 80 with HW_AHBPROT
+some-yawmm-mod 1602703635 4423 562656 dol 309785 0 0 ws  . .
+Some YAWMM Mod
+various
+1.0
+567912
+Install\Uninstall WADs
+Press the "A" key to (un)install WADs. 
+SPD_Loader 1621227663 8171 181504 dol 103401 0 0 w  . .
+SPD Loader
+WiiLink24 Developers
+1.0.
+190223
+Loads the title ID 0001000804843434a(Set Personal Data Channel)
+Loads the title ID 0001000804843434a(Set Personal Data Channel). Works with both the WiiLink24 SPD and the official Nintendo SPD, the latter assuming you have a Japanese system.
+SSRT 1333410600 875 293824 dol 153593 0 0 w  . .
+System Settings Replace Tool
+Tona, PabloACZ
+2
+297185
+Backup / replace setting.txt
+This application is based on the original System Settings Replace Tool made by Tona in 2008. It's main purpose is to backup and/or restore the setting.txt file, which contains console-specific information, like the serial number or the game region. When this file isn't present on the NAND (due to an accidental uninstallation of the System Menu) or it's corrupted, it is very likely that the console will not boot at all. However, if the user can access to Priiloader or BootMii, there is high chance that the System Menu can be reinstalled using an application compatible with GCN controllers (like WiiMod); but in order to re-enable the WiiMote connection, it'll be needed to restore a correct setting.txt. In other words, the SSRT aims to help in the brick recovery process by allowing the user to keep a valid backup of the setting.txt from his/her Wii.
+stopwatch 1591074000 7610 1851224 elf 1628260 0 0 w  . .
+Stopwatch
+Ilovemyhouse
+1.0.0
+2971209
+A stopwatch for you'r Wii
+This is a little stopwatch for you'r Wii coded by Ilovemyhouse! Huge thank you to 4TU (For The Users) for they'r support!
+SysCheckHDE 1444626000 6249 2013984 dol 1200128 0 0 w  . .
+SysCheck HacksDen Edition
+JoostinOnline, Double_A, R2-D2199, Nano
+2.4.0 HD Edition
+2024658
+System Checker HacksDen Edition
+Homebrew application which does several checks on installed IOS and custom IOS:
+TinyLoad 1261288800 8330 4096 elf 20472 0 0 w  . .
+TinyLoad
+marcan
+0.2
+13140
+Region-free loader
+Region-free original game launcher in 4096 bytes
+usb-loader 1310014800 7117 1569440 dol 901051 0 0 wwwwgcns  . .
+Configurable USB Loader
+oggzee, usptactical, gannon, Clipper,...
+70 (release)
+1577474
+Play from USB drive
+Play Wii Backups from USB harddrive
+usbloader_gx 1627858281 5744 4909536 dol 5864545 0 0 wwwwgcns  . .
+ USB Loader GX
+USB Loader GX Team
+3.0 r1272
+4917051
+Loads games from USB-devices
+USB Loader GX is a libwiigui based USB iso loader with a wii-like GUI. You can install games to your HDDs and boot them with shorter loading times.
+USB_Toggle 1394064000 1371 208896 dol 105636 0 0 w  . .
+USB Toggle 2.0
+Onion_Knight, jayjay123
+v1.00
+210884
+USB Toggle
+USB Toggle changes the boot signature of a USB device so that it stops the annoying format disc nag.  Based on the same signature of jayjay123 Ustealth.exe.  
+VC_Test 1576284137 7848 1984544 dol 1167442 0 0 wwwwgcn  . .
+Visual Controller Test
+Mr. Reaper
+1.2
+1992881
+Test all your controllers
+If you like pressing buttons, then this app is for you!!!
+V-Unlock 1591765200 6489 299936 dol 155342 0 0 w  . .
+V-Unlock
+Vega
+0.4.1
+306836
+MKW-Unlocker
+Vega's MKW Unlocker App. This is an unlocking app for Mario Kart Wii. For more information, visit www.MKWii.com.
+WakeMiiUp 1264809600 9390 300288 dol 159225 0 0 w  . .
+WakeMiiUp
+Superyoshi
+0.6beta
+310382
+Wakes you using Drive Light
+WakeMiiUp is not your usual Alarm App. It uses methods to wake you which don't need a TV!
+wiibrowser 1378053900 5608 5775616 dol 2675617 0 0 ws  . .
+WiiBrowser
+gave92
+rev132
+5783432
+A Web browser for the Wii
+WiiBrowser is a wii web browser by gave92 started from WiiXplore sources and using a customized libwiigui as base for the GUI.
+wii-ds-rom-sender 1508302800 1779 463744 dol 461864 0 0 wwwwgcns  . .
+Wii DS ROM Sender
+FIX94
+v3.3
+465817
+Send NDS ROMs to a DS using DLP.
+Send NDS ROMs to a DS using DLP.
+WiiEarth 1575227459 10822 513088 dol 288507 0 0 w  . .
+WiiEarth
+PaulWagener
+2.3
+524384
+Browse the world
+Use the Wiimote to browse through satellite imagery
+wiiflow 1617426000 8319 4343136 dol 3094311 0 0 wwwwgcns /apps/wiiflow/imgs;/apps/wiiflow/bins;/wiiflow;/wiiflow/themes_lite;/wiiflow/themes_lite/coverflows;/wiiflow/languages . .
+WiiFlow WFL
+Fledge68
+5.4.9
+5767655
+USB Loader app
+WiiFlow is a app for loading backup games from a USB Device or SD card.
+wiiflow_channel_installer 1575227476 11580 3490016 dol 1878771 0 0 w  . .
+ WiiFlow Channel Installer
+FIX94
+1.1
+3501903
+Installs the WiiFlow Forwarders
+Installs the WiiFlow Forwarders
+wiiflow_start_configurator 1390360340 12234 293920 dol 167063 0 0 w  . .
+ WiiFlow Start Configurator
+FIX94
+1.0
+306349
+No description provided.
+No description provided.
+wiilauncher 1397970000 12832 833152 dol 440734 0 0 ws  . .
+WiiLauncher
+conanac
+0.2
+846511
+WiiLauncher
+An alternative to GeckoOS for Nintendo Wii and Wii-U (running WiiMode)
+wiimmfipatcher 1615701600 13887 521376 dol 295807 0 0 w  . .
+Wiimmfi Patcher
+MrBean35000vr,Chadderz,Leseratte
+v0.7.5
+567490
+Play Wii games online via Wiimmfi!
+This app will attempt to patch the inserted disc so that it can use Wiimmfi, a replacement online service following the shutdown of Nintendo WFC. Wiimmfi was created primarily by Wiimm and Leseratte, with various input and help from many people who wanted to save Nintendo WFC. This app is heavily based off BrainSlug by Chadderz.
+WiiModLite 1411534800 26848 583712 dol 328653 0 0 wwwwgcs  . .
+Wii Mod Lite
+jskyboo,kkline38
+v1.7
+629781
+Wii Mod Lite(vWii)
+WiiMod Lite for Wii,vWii
+wiinfo 1589259600 18593 426816 dol 236328 0 0 w  . .
+WiiNFO
+VTSTech
+0.11
+445848
+WiiNFO
+Written by VTSTech
+wiishell 1214283600 1689 683529 elf 258868 0 0 wk  . .
+WiiShell
+aksommerville
+testing
+689109
+Browse files on SD card
+This creates a UNIX-like shell for manipulating files on your SD card.
+WiiVNC 1575227546 10440 1655296 dol 821235 0 0 wg  . .
+WiiVNC
+PaulWagener
+1.3
+1666173
+Control your computer
+Connect to a VNC server
+wiiwebserver 1244869200 6462 474656 dol 226019 0 0 wgcns /apps/wiiwebserver/data;/apps/wiiwebserver/data/settings . .
+Wii Web Server
+Cboomf + Felix123
+alpha v1.1
+481825
+Serves web-pages
+Boot using normal methods *cough* HBC *cough*. Once running, will run itself. 
+wiiwhiteboard 1211518800 6267 316576 dol 128004 0 0 ww  . .
+WiiWhiteboard
+Bg
+0.2b
+323338
+Interactive Whiteboard
+Use two Wiimotes and an infrared pointer to make an interactive whiteboard. This is a port of Johnny Chung Lee's Low-Cost Multi-point Interactive Whiteboards Using the Wiimote to the Nintendo Wii.
+wiixplorer 1367186520 7210 4591712 dol 2382428 0 0 wwwwgcnsk  . .
+WiiXplorer
+Dimok
+r259
+4601278
+Wii File Browser
+A multi device file explorer for the Wii by dimok, r-win and dude.
+wsmplayer 1335502800 2370 1667680 dol 697230 0 0 w  . .
+mitschwanzenegger
+Dimok and Giantpune
+v0.1
+1670462
+Wii System Menu Player
+A program that plays the system menu and other wii animations.
+ww-43db-patcher 1614405600 4660 428832 dol 439829 0 0 w  . .
+ww-43db-patcher
+DarkMatterCore
+0.2
+434042
+vWii WiiWare 43DB patcher.
+Patches WiiWare aspect ratio database (43DB) from the vWii System Menu U8 archive to stub all of its entries, effectively enabling access to 16:9 aspect ratio in WiiWare titles where 4:3 is otherwise enforced.
+xyzzy-mod 1592449200 10852 2244556 elf 1067656 0 0 w  . .
+Xyzzy
+Bushing, DarkMatterCore
+1.3.0
+2706723
+Extract your Wii console keys!
+Xyzzy is a homebrew application that allows the extraction of the OTP and SEEPROM Encryption Keys.
+Yet-Another-BlueDump-Mod 1530252000 10028 567232 dol 308519 0 0 wwwwgcns  . .
+Yet Another BlueDump MOD (YABDM)
+nicksasa, DarkMatterCore
+v1.85
+604682
+Title and save manager
+YABDM is a modification of BlueDump capable of dumping any type of title installed in your Wii console to a WAD file in a SD Card or an USB storage device. It can also backup and restore savegames in their unencrypted form, and convert content.bin files generated by the System Menu on the SD card to WAD files.
+=Utilities=

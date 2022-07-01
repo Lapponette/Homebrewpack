@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="2.2.0b">
+	<name>WiiPhysics</name>
+	<coder>Beardface</coder>
+	<version>2.2.0b</version>
+	<short_description>Physics for the Wii!</short_description> 
+	<long_description>WiiPhysics is a physics playground for the wii. It was build Using Box2D and libwiisprite.
+
+Go to wiiphysics.googlecode.com for more info.
+
+Thanks to:
+   _0xtob : Concave Decomp
+   kiwifish : audio
+   Chaosteil (feesh) : wiisprite
+   Usual Suspects (libogc, devkitppc)
+</long_description> 
+</app>
+

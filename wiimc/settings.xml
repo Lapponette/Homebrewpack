@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<file app="WiiMC" version="1.3.4">
+
+<section name="Global" description="Global Settings">
+	<setting name="theme" value="" description="Theme" />
+	<setting name="language" value="1" description="Language" />
+	<setting name="volume" value="50" description="Volume" />
+	<setting name="hideExtensions" value="1" description="Hide filename extensions" />
+	<setting name="exitAction" value="0" description="Exit action" />
+	<setting name="rumble" value="1" description="Wiimote rumble" />
+	<setting name="screensaverDelay" value="300" description="Screensaver delay" />
+	<setting name="inactivityShutdown" value="2" description="Inactivity shutdown" />
+	<setting name="lockFolders" value="0" description="Static folders" />
+	<setting name="startArea" value="0" description="Starting area" />
+	<setting name="debug" value="0" description="Debug" />
+</section>
+
+<section name="Videos" description="Videos Settings">
+	<setting name="videoZoomHor" value="1.00" description="Horizontal video zoom" />
+	<setting name="videoZoomVert" value="1.00" description="Vertical video zoom" />
+	<setting name="videoXshift" value="0" description="Video X offset" />
+	<setting name="videoYshift" value="0" description="Video Y offset" />
+	<setting name="frameDropping" value="1" description="Frame dropping compensation" />
+	<setting name="aspectRatio" value="-2.00" description="Aspect ratio" />
+	<setting name="cacheFill" value="30" description="Cache Fill %" />
+	<setting name="audioLanguage" value="" description="Audio language" />
+	<setting name="audioDelay" value="0.00" description="Audio delay" />
+	<setting name="autoResume" value="1" description="Auto-resume" />
+	<setting name="autoPlayNextVideo" value="0" description="Auto-play next video" />
+	<setting name="skipBackward" value="10" description="Skip backward" />
+	<setting name="skipForward" value="30" description="Skip forward" />
+	<setting name="videosFolder" value="sd1:/apps/" description="Videos folder" />
+</section>
+
+<section name="Music" description="Music Settings">
+	<setting name="playOrder" value="0" description="Play order" />
+	<setting name="musicFolder" value="" description="Music folder" />
+</section>
+
+<section name="Pictures" description="Pictures Settings">
+	<setting name="slideshowDelay" value="5" description="Slideshow delay" />
+	<setting name="picturesFolder" value="sd1:/snes9xtx/" description="Pictures folder" />
+</section>
+
+<section name="DVD" description="DVD Settings">
+	<setting name="dvdMenu" value="1" description="DVD Menu" />
+	<setting name="dvdDisabled" value="0" description="DVD Disabled" />
+</section>
+
+<section name="Online Media" description="Online Media Settings">
+	<setting name="onlineCacheFill" value="20" description="Online Cache Fill %" />
+	<setting name="youtubeFormat" value="35" description="YouTube quality" />
+	<setting name="onlinemediaFolder" value="" description="Online media folder" />
+</section>
+
+<section name="Network" description="Network Settings">
+	<smbshare name="0">
+		<variable name="ip" value="" description="SMB Share IP" />
+		<variable name="share" value="" description="SMB Share Name" />
+		<variable name="user" value="" description="SMB Share Username" />
+		<variable name="pwd" value="" description="SMB Share Password" />
+		<variable name="displayname" value="" description="SMB Display Name" />
+	</smbshare>
+	<smbshare name="1">
+		<variable name="ip" value="" description="SMB Share IP" />
+		<variable name="share" value="" description="SMB Share Name" />
+		<variable name="user" value="" description="SMB Share Username" />
+		<variable name="pwd" value="" description="SMB Share Password" />
+		<variable name="displayname" value="" description="SMB Display Name" />
+	</smbshare>
+	<smbshare name="2">
+		<variable name="ip" value="" description="SMB Share IP" />
+		<variable name="share" value="" description="SMB Share Name" />
+		<variable name="user" value="" description="SMB Share Username" />
+		<variable name="pwd" value="" description="SMB Share Password" />
+		<variable name="displayname" value="" description="SMB Display Name" />
+	</smbshare>
+	<smbshare name="3">
+		<variable name="ip" value="" description="SMB Share IP" />
+		<variable name="share" value="" description="SMB Share Name" />
+		<variable name="user" value="" description="SMB Share Username" />
+		<variable name="pwd" value="" description="SMB Share Password" />
+		<variable name="displayname" value="" description="SMB Display Name" />
+	</smbshare>
+	<smbshare name="4">
+		<variable name="ip" value="" description="SMB Share IP" />
+		<variable name="share" value="" description="SMB Share Name" />
+		<variable name="user" value="" description="SMB Share Username" />
+		<variable name="pwd" value="" description="SMB Share Password" />
+		<variable name="displayname" value="" description="SMB Display Name" />
+	</smbshare>
+	<smbshare name="5">
+		<variable name="ip" value="" description="SMB Share IP" />
+		<variable name="share" value="" description="SMB Share Name" />
+		<variable name="user" value="" description="SMB Share Username" />
+		<variable name="pwd" value="" description="SMB Share Password" />
+		<variable name="displayname" value="" description="SMB Display Name" />
+	</smbshare>
+	<smbshare name="6">
+		<variable name="ip" value="" description="SMB Share IP" />
+		<variable name="share" value="" description="SMB Share Name" />
+		<variable name="user" value="" description="SMB Share Username" />
+		<variable name="pwd" value="" description="SMB Share Password" />
+		<variable name="displayname" value="" description="SMB Display Name" />
+	</smbshare>
+	<smbshare name="7">
+		<variable name="ip" value="" description="SMB Share IP" />
+		<variable name="share" value="" description="SMB Share Name" />
+		<variable name="user" value="" description="SMB Share Username" />
+		<variable name="pwd" value="" description="SMB Share Password" />
+		<variable name="displayname" value="" description="SMB Display Name" />
+	</smbshare>
+	<smbshare name="8">
+		<variable name="ip" value="" description="SMB Share IP" />
+		<variable name="share" value="" description="SMB Share Name" />
+		<variable name="user" value="" description="SMB Share Username" />
+		<variable name="pwd" value="" description="SMB Share Password" />
+		<variable name="displayname" value="" description="SMB Display Name" />
+	</smbshare>
+	<ftpsite name="0">
+		<variable name="ip" value="" description="FTP IP" />
+		<variable name="folder" value="" description="FTP Name" />
+		<variable name="user" value="" description="FTP Username" />
+		<variable name="pwd" value="" description="FTP Password" />
+		<variable name="port" value="21" description="FTP Port" />
+		<variable name="passive" value="0" description="FTP Passive Mode" />
+		<variable name="displayname" value="" description="FTP Display Name" />
+	</ftpsite>
+	<ftpsite name="1">
+		<variable name="ip" value="" description="FTP IP" />
+		<variable name="folder" value="" description="FTP Name" />
+		<variable name="user" value="" description="FTP Username" />
+		<variable name="pwd" value="" description="FTP Password" />
+		<variable name="port" value="21" description="FTP Port" />
+		<variable name="passive" value="0" description="FTP Passive Mode" />
+		<variable name="displayname" value="" description="FTP Display Name" />
+	</ftpsite>
+	<ftpsite name="2">
+		<variable name="ip" value="" description="FTP IP" />
+		<variable name="folder" value="" description="FTP Name" />
+		<variable name="user" value="" description="FTP Username" />
+		<variable name="pwd" value="" description="FTP Password" />
+		<variable name="port" value="21" description="FTP Port" />
+		<variable name="passive" value="0" description="FTP Passive Mode" />
+		<variable name="displayname" value="" description="FTP Display Name" />
+	</ftpsite>
+	<ftpsite name="3">
+		<variable name="ip" value="" description="FTP IP" />
+		<variable name="folder" value="" description="FTP Name" />
+		<variable name="user" value="" description="FTP Username" />
+		<variable name="pwd" value="" description="FTP Password" />
+		<variable name="port" value="21" description="FTP Port" />
+		<variable name="passive" value="0" description="FTP Passive Mode" />
+		<variable name="displayname" value="" description="FTP Display Name" />
+	</ftpsite>
+	<ftpsite name="4">
+		<variable name="ip" value="" description="FTP IP" />
+		<variable name="folder" value="" description="FTP Name" />
+		<variable name="user" value="" description="FTP Username" />
+		<variable name="pwd" value="" description="FTP Password" />
+		<variable name="port" value="21" description="FTP Port" />
+		<variable name="passive" value="0" description="FTP Passive Mode" />
+		<variable name="displayname" value="" description="FTP Display Name" />
+	</ftpsite>
+	<ftpsite name="5">
+		<variable name="ip" value="" description="FTP IP" />
+		<variable name="folder" value="" description="FTP Name" />
+		<variable name="user" value="" description="FTP Username" />
+		<variable name="pwd" value="" description="FTP Password" />
+		<variable name="port" value="21" description="FTP Port" />
+		<variable name="passive" value="0" description="FTP Passive Mode" />
+		<variable name="displayname" value="" description="FTP Display Name" />
+	</ftpsite>
+	<ftpsite name="6">
+		<variable name="ip" value="" description="FTP IP" />
+		<variable name="folder" value="" description="FTP Name" />
+		<variable name="user" value="" description="FTP Username" />
+		<variable name="pwd" value="" description="FTP Password" />
+		<variable name="port" value="21" description="FTP Port" />
+		<variable name="passive" value="0" description="FTP Passive Mode" />
+		<variable name="displayname" value="" description="FTP Display Name" />
+	</ftpsite>
+	<ftpsite name="7">
+		<variable name="ip" value="" description="FTP IP" />
+		<variable name="folder" value="" description="FTP Name" />
+		<variable name="user" value="" description="FTP Username" />
+		<variable name="pwd" value="" description="FTP Password" />
+		<variable name="port" value="21" description="FTP Port" />
+		<variable name="passive" value="0" description="FTP Passive Mode" />
+		<variable name="displayname" value="" description="FTP Display Name" />
+	</ftpsite>
+	<ftpsite name="8">
+		<variable name="ip" value="" description="FTP IP" />
+		<variable name="folder" value="" description="FTP Name" />
+		<variable name="user" value="" description="FTP Username" />
+		<variable name="pwd" value="" description="FTP Password" />
+		<variable name="port" value="21" description="FTP Port" />
+		<variable name="passive" value="0" description="FTP Passive Mode" />
+		<variable name="displayname" value="" description="FTP Display Name" />
+	</ftpsite>
+</section>
+
+<section name="Subtitles" description="Subtitle Settings">
+	<setting name="subtitleVisibility" value="1" description="Subtitle visibility" />
+	<setting name="subtitleDelay" value="0.00" description="Subtitle delay" />
+	<setting name="subtitleLanguage" value="" description="Subtitle language" />
+	<setting name="subtitleCodepage" value="" description="Subtitle codepage" />
+	<setting name="subtitleColor" value="FFFFFF00" description="Subtitle color" />
+	<setting name="subtitleSize" value="2.00" description="Subtitle size" />
+</section>
+</file>
